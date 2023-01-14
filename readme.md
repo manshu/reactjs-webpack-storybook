@@ -1,6 +1,7 @@
 # ReactJS with Webpack 5, StoryBook & TailwindCSS
 
-![StoryBook](https://github.com/manshu/reactjs-webpack-storybook/blob/master/storybook.png?raw=true)
+![StoryBook](https://raw.githubusercontent.com/manshu/reactjs-webpack-storybook/master/src/assets/images/storybook.png?raw=true "Story Book @ V6")
+
 
 Subscribe to my YT Channel [https://www.youtube.com/@gurulabsdev]
 
