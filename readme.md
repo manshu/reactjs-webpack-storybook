@@ -1,4 +1,4 @@
-# ReactJS with Webpack 5 & TailwindCSS
+# ReactJS with Webpack 5, StoryBook & TailwindCSS
 
 Subscribe to my YT Channel [https://www.youtube.com/@gurulabsdev]
 
